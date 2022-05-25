@@ -2,6 +2,7 @@ decide where I want to eat
 look up the menu online
 decide what I pizza I want
 select toppings
+4a. make sure crust is gluten free
 get my phone and look up the restaurant contact info
 Call the restaurant to place my order
 Choose delivery instead of pickup
